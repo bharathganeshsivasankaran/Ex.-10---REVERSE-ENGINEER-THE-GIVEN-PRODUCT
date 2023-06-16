@@ -33,10 +33,11 @@
 ## Input:
 
 ### Output:
+![Screenshot 2023-06-16 151509](https://github.com/bharathganeshsivasankaran/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119478098/667d24ff-ef07-4eb7-b985-04a6c8499348)
 
 
-### Name:
-### Register Number:
+### Name: BHARATHGANESH.S
+### Register Number: 212222230022
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
